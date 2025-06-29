@@ -14,12 +14,12 @@ To deploy a Windows Server 2019 Virtual Machine in Azure using the Azure Portal.
 
    - **Subscription**: Free Trial  
    - **Resource Group**: rg-azurelabs  
-   - **VM Name**: az-winvm01  
-   - **Region**: Central India (or nearest)  
+   - **VM Name**: AZSVM1 
+   - **Region**: Central India  
    - **Image**: Windows Server 2019 Datacenter - Gen1  
    - **Size**: Standard B1s  
-   - **Username**: azureuser  
-   - **Password**: Pass@1234!  
+   - **Username**: DCMADMIN  
+   - **Password**: Azure!nfra22  
    - **Inbound ports**: RDP (3389)
 
 3. Clicked **Review + Create** → then clicked **Create**
