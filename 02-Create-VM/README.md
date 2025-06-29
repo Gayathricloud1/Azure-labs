@@ -12,7 +12,7 @@ To deploy a Windows Server 2019 Virtual Machine in Azure using the Azure Portal.
 1. Navigated to **Virtual Machines** → Clicked **+ Create > Azure virtual machine**
 2. Chose the following settings:
 
-   - **Subscription**: Free Trial  
+   - **Subscription**: Azure subscrription 1  
    - **Resource Group**: rg-azurelabs  
    - **VM Name**: AZSVM1 
    - **Region**: Central India  
