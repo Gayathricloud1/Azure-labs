@@ -17,7 +17,7 @@ To create a new Resource Group in Azure Portal to organize related resources for
 ✅ Resource Group created successfully and now ready to be used in other labs.
 
 ## Screenshot(s)
-![Resource Group Created](./Resource group created.png)
+![Resource group creation](./Resource-group-creation.png)
 - `rg-created.png`: Resource Group created successfully screen
 
 ## What I Learned
