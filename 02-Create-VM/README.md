@@ -41,4 +41,4 @@ To deploy a Windows Server 2019 Virtual Machine in Azure using the Azure Portal.
 
 ## Next Step
 
-➡️ Proceed to [Lab 03: Create a Virtual Network](../03-VNet/README.md)
+➡️ Proceed to [Lab 03: Create a Virtual Network](../03-VNet-creation/README.md)
