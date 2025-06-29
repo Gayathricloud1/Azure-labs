@@ -9,7 +9,7 @@ To create a new Resource Group in Azure Portal to organize related resources for
 2. Searched for "Resource groups" in the search bar
 3. Clicked on **+ Create**
 4. Selected:
-   - **Subscription**: Free Trial
+   - **Subscription**: Azure subscription 1
    - **Resource Group Name**: rg-azurelabs
    - **Region**: Central India (or your nearest location)
 5. Clicked **Review + Create → Create**
