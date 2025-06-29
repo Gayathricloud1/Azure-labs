@@ -27,7 +27,8 @@ To deploy a Windows Server 2019 Virtual Machine in Azure using the Azure Portal.
 5. Viewed VM in **Running** state under "Virtual Machines"
 
 ## Screenshot(s)
-
+![VM Created Screenshot](./VM-creation.png)
+![VM Deployement Screenshot](./VM-deployment-statu)
 - `vm-created.png`: Virtual Machine overview page
 - `vm-status.png`: VM running with IP and RDP access
 
