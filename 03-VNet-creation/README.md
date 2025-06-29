@@ -16,7 +16,7 @@ Create a Virtual Network and Subnet using the Azure Portal for future networking
 4. Clicked Review + Create → Deployed successfully
 
 ## Screenshot(s)
-
+![VNet deployment](./Vnet-deployment.png)
 ![VNet Overview](./vnet-overview.png)
 ![Subnet Created](./subnet-created.png)
 
