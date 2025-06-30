@@ -92,7 +92,6 @@ Save these images in your GitHub folder for Lab 05:
 
 - What a Network Security Group (NSG) is and how it works
 - Difference between inbound and outbound rules
-- Why VM must be stopped before NIC-level association
 - How to allow secure remote access (RDP) via NSG
 
 ---
