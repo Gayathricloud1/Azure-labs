@@ -15,7 +15,9 @@ To secure virtual machines using a custom NSG that controls traffic through inbo
    - NIC of VM `AZSVM2`
 
 ## Screenshot(s)
-
+![NSG creation](./nsg-creation.png)
+![inbound rule creation](./inbound-rules.png)
+![NSG associated with vM throuh NIC network interface](./nsg-associated-withvm.png)
 - NSG with RDP rule
 - Association with NIC
 
