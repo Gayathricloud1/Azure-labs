@@ -20,7 +20,8 @@ Create a VM inside the custom virtual network created in Lab 3 (`VnetManual1`) t
 4. Clicked Review + Create → Created the VM successfully
 
 ## Screenshot(s)
-
+![VM custome Vnet](./VM-custom-vnet.png)
+![VM Networking tab](./vm-networking-tab.png)
 - `vm-custom-vnet-overview.png`: VM created inside custom VNet
 - `vm-networking-tab.png`: Shows VNet and Subnet attached
 
