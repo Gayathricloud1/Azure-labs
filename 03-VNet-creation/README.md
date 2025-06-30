@@ -12,13 +12,13 @@ Create a Virtual Network and Subnet using the Azure Portal for future networking
    - **Region**: Central India (same as VM)
 3. Set IP range:
    - **VNet**: 10.0.0.0/16
-   - **Subnet**: subnet-lab03 (10.0.1.0/24)
+   - **Subnet**: SubnetManual1 (10.0.1.0/24)
 4. Clicked Review + Create → Deployed successfully
 
 ## Screenshot(s)
 ![VNet deployment](./Vnet-deployment.png)
 ![VNet Overview](./Vnet-overview.png)
-![Subnet Created](./subnet-created.png)
+![Subnet Created](./subnet.png)
 
 ## What I Learned
 
