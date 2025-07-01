@@ -5,8 +5,8 @@ Attach a new data disk to an existing VM and format it inside the OS for use.
 
 ### Steps
 
-1. Navigated to the VM `azsvm2968_z1` > Disks.
-2. Added a 10 GiB data disk named `datadisk1` with default settings.
+1. Navigated to the VM `AZSVM1` > Disks.
+2. Added a 5 GiB data disk named `datadisk1` with default settings.
 3. Saved and updated the VM to attach the disk.
 4. Connected to the VM using RDP.
 5. Used `diskmgmt.msc` to initialize the disk with GPT partitioning.
