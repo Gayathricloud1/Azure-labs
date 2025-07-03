@@ -72,6 +72,9 @@ This enables Azure Administrators to detect and respond to issues proactively.
 5. Click **Create**
 
 ---
+### Screenshots
+![Alert rule created](./alert-rule.png)
+![Alert rule configuration](./alert-rule-config.png)
 
 ## ✅ Result
 
