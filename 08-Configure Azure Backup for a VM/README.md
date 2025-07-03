@@ -25,7 +25,7 @@ To enable backup protection for an Azure virtual machine using **Azure Backup** 
    - **Region**: Must match the VM's region (e.g., Central India)
 5. Click **Review + Create**, then **Create**
 
-> 📝 Screenshot Suggestion: Vault creation form filled
+![recovery vault service created](./recovery-service-vault.png)
 
 ---
 
@@ -39,7 +39,7 @@ To enable backup protection for an Azure virtual machine using **Azure Backup** 
 6. Click **+ Add** → Select your VM (e.g., `azsvm2968_z1`)
 7. Click **Enable Backup**
 
-> 📝 Screenshot Suggestion: VM selected in "Enable backup" wizard
+![Adding vm to backup in the vault](./backupitemadded.png)
 
 ---
 
@@ -62,7 +62,7 @@ You can:
 3. Click **Backup now**
 4. Choose retention period (e.g., 30 days) → Click **OK**
 
-> 📝 Screenshot Suggestion: Backup now window with retention picker
+
 
 ---
 
@@ -76,7 +76,7 @@ You can:
    - Last Backup Time
    - Recovery points listed
 
-> 📝 Screenshot Suggestion: Successful job completion and backup item health status
+![status after trying manual backup](./backupjobs-status.png)
 
 ---
 
