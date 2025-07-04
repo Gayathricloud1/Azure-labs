@@ -132,7 +132,8 @@ Click **+ Add metric** to compare:
 ---
 
 ## 🖼 Screenshots to Include (Optional)
-
+![configuring metrics](./Metrics.png)
+![Analyzing metrics](./analyzing-metrics.png)
 
 ---
 
