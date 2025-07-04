@@ -134,8 +134,6 @@ This enables Azure Administrators to detect and respond to issues proactively.
 
 ---
 
-## 📂 Screenshots to Include (Optional for GitHub)
-
 
 ---
 
