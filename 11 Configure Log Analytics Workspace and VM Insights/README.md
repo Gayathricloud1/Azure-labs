@@ -44,6 +44,7 @@ After a few minutes:
 - View the following:
   - **Performance**: CPU, memory, disk, network metrics
   - **Map**: Real-time dependency map of connected processes/services
+    ![insights](./monitoring-insights.png)
 
 > 🔍 If the Map tab doesn't load, manually install the **Dependency Agent** from the Extensions section.
 
