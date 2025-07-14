@@ -51,7 +51,7 @@ Give a user read-only access to a resource group named `Dev-RG`.
 8. Click **Review + assign**
 
 🟢 **Result**: The user can view all resources in `Dev-RG` but cannot modify or delete them.
-
+![part1](./RBAC-role-assignment-part1.png)
 ---
 
 ## ✅ Part 2: Assign Role at Resource Scope (e.g., VM only)
@@ -68,7 +68,7 @@ Allow a developer to **start/stop a VM**, but not delete or access anything else
 6. Click **Review + assign**
 
 🟢 **Result**: The user can manage VM operations like start, restart, shutdown, but cannot delete or manage storage/network.
-
+![part2](./RBAC-role-assignment-part2.png)
 ### 📌 Why Use Resource-Level Scope?
 - To give **fine-grained control**
 - Prevent unintended access to other resources
@@ -120,7 +120,7 @@ Click **Review + Create** to save the custom role.
 4. Select user → Click **Review + assign**
 
 🟢 **Result**: The user can view blobs and update tags, but not manage or delete resources.
-
+![part3](./RBAC-role-assignment-part3.png)
 ---
 
 ## 📊 Summary of Role Types
